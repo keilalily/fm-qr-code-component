@@ -1,24 +1,28 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="h-full">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="./css/main.css">
         <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
         <title>Frontend Mentor | QR code component</title>
     </head>
-    <body class="bg-(--color-slate-300) flex flex-col justify-center items-center">
-        <div class="flex flex-col p-[16px] w-[320px] h-[499px] bg-(--color-white) rounded-[20px]">
-            <img class="size-[288px] rounded-[10px] mb-[24px]" src="./images/image-qr-code.png" alt="Image QR Code"/>
-            <h2 class="font-outfit font-bold text-[22px] tracking-0 leading-[120%] text-(--color-slate-900) text-center">Improve your front-end skills by building projects</h2>
+    <body class="bg-(--color-slate-300) flex flex-col justify-center items-center h-full gap-[16px]">
+        <div class="flex flex-col p-[16px] w-[320px] h-[499px] bg-(--color-white) rounded-[20px] gap-[24px]">
+            <img class="size-[288px] rounded-[10px]" src="./images/image-qr-code.png" alt="Image QR Code"/>
+            <div class="flex flex-col gap-[16px] text-center">
+                <h2 class="font-outfit font-bold text-[22px]/[120%] tracking-[0px] text-(--color-slate-900)">
+                    Improve your front-end skills by building projects
+                </h2>
+                <p class="font-outfit text-[15px]/[140%] tracking-[0.2px] text-(--color-slate-900)">
+                    Scan the QR code to visit Frontend Mentor and take your coding skills to the next level
+                </p>
+            </div>
         </div>
 
         <div class="text-xs text-center">
-            Challenge by <a class="text-[hsl(228,45%,44%)]" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-            Coded by <a class="text-[hsl(228,45%,44%)]" href="#">Kyla Marie Angeles</a>.
+            Challenge by <a class="text-[hsl(228,45%,44%)]" href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+            Coded by <a class="text-[hsl(228,45%,44%)]" href="https://github.com/keilalily" target="_blank">Kyla Marie Angeles</a>.
         </div>
     </body>
 </html>
