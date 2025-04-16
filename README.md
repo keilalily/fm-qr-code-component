@@ -11,8 +11,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 This project is a solution to the QR code component challenge on Frontend Mentor. The challenge was to build a clean, responsive QR code component that closely matches the design provided, using best practices for structure and styling.
