@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-- [Live Demo](#live-demo)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -16,15 +15,15 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 This project is a solution to the QR code component challenge on Frontend Mentor. The challenge was to build a clean, responsive QR code component that closely matches the design provided, using best practices for structure and styling.
 
+- Live Demo
+
+[View the Live Site](https://keilalily.github.io/fm-qr-code-component/)
+
 - Mobile: 375px
 ![](./design/qr-code-component-mobile.png)
 
 - Desktop: 1440px
 ![](./design/qr-code-component-desktop.png)
-
-## Live Demo
-
-[View the Live Site](https://keilalily.github.io/fm-qr-code-component/)
 
 ## My process
 
