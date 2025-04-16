@@ -16,10 +16,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project is a solution to the QR code component challenge on Frontend Mentor. The challenge was to build a clean, responsive QR code component that closely matches the design provided, using best practices for structure and styling.
 
 - Mobile: 375px
-![](./design/qr-code-component-mobile.jpg)
+![](./design/qr-code-component-mobile.png)
 
 - Desktop: 1440px
-![](./design/qr-code-component-desktop.jpg)
+![](./design/qr-code-component-desktop.png)
 
 ## My process
 
