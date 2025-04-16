@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
+- [Live Demo](#live-demo)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -20,6 +21,10 @@ This project is a solution to the QR code component challenge on Frontend Mentor
 
 - Desktop: 1440px
 ![](./design/qr-code-component-desktop.png)
+
+## Live Demo
+
+[View the Live Site](https://your-username.github.io/your-repo-name/)
 
 ## My process
 
